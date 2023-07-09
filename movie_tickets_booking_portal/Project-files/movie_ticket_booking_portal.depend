@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1622371014 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\movie_ticket_booking_portal\main.cpp
+	<iostream>
+	"movie.h"
+
+1622371014 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\movie_ticket_booking_portal\include\movie.h
+
+1622709486 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\movie_ticket_booking_portal\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+
+1623164261 source:d:\class\s-ii\it206 dbms\grpassignment\movie_ticket_booking_portal\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623164215 d:\class\s-ii\it206 dbms\grpassignment\movie_ticket_booking_portal\include\movie.h
+	<iostream>
+	<string>
+
+1623164249 source:d:\class\s-ii\it206 dbms\grpassignment\movie_ticket_booking_portal\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623161170 d:\class\s-ii\it206 dbms\grpassignment\movie_ticket_booking_portal\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623162545 source:d:\class\s-ii\it206 dbms\grpassignment\movie_ticket_booking_portal\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623168810 source:c:\users\lenovo\downloads\abc\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623164214 c:\users\lenovo\downloads\abc\include\movie.h
+	<iostream>
+	<string>
+
+1623167551 c:\users\lenovo\downloads\abc\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623168300 source:c:\users\lenovo\downloads\abc\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623164390 source:c:\users\lenovo\downloads\abc\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623170284 source:c:\users\lenovo\downloads\202001452_&_202001464_it205-project\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623164214 c:\users\lenovo\downloads\202001452_&_202001464_it205-project\include\movie.h
+	<iostream>
+	<string>
+
+1623167551 c:\users\lenovo\downloads\202001452_&_202001464_it205-project\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623168300 source:c:\users\lenovo\downloads\202001452_&_202001464_it205-project\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623164390 source:c:\users\lenovo\downloads\202001452_&_202001464_it205-project\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623170454 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it205-project\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623164214 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it205-project\include\movie.h
+	<iostream>
+	<string>
+
+1623167551 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it205-project\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623168300 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it205-project\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623164390 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it205-project\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623171280 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it206-project\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623171280 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it206-project\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623164390 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it206-project\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623164214 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it206-project\include\movie.h
+	<iostream>
+	<string>
+
+1623171177 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452_&_202001464_it206-project\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623175292 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_it206-project\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623164214 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_it206-project\include\movie.h
+	<iostream>
+	<string>
+
+1623171280 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_it206-project\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623171280 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_it206-project\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623164390 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_it206-project\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623484378 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_project files\202001452&202001464_it206-project\main.cpp
+	<iostream>
+	"movie.h"
+	"loginpage.h"
+
+1623164214 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_project files\202001452&202001464_it206-project\include\movie.h
+	<iostream>
+	<string>
+
+1623171280 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_project files\202001452&202001464_it206-project\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623171280 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_project files\202001452&202001464_it206-project\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623164390 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464_project files\202001452&202001464_it206-project\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623171282 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464-project-files\src\loginpage.cpp
+	"loginpage.h"
+	<iostream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1623171282 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464-project-files\include\loginpage.h
+	<iostream>
+	<fstream>
+
+1623164390 source:c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464-project-files\src\movie.cpp
+	"movie.h"
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+	<bits/stdc++.h>
+
+1623164214 c:\users\lenovo\desktop\daiict\sem 2\data structures lab\202001452&202001464-project-files\include\movie.h
+	<iostream>
+	<string>
+

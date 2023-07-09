@@ -1,0 +1,5 @@
+abc
+1234
+1234
+Name:1 1||Time: Wed Jun 09 10:45:51 2021
+ || Method: DEBIT CARD ||Movie Name: Bahubali || TicketNo.1 || Cost 120 || City Code: 1 || ShowTime 1
